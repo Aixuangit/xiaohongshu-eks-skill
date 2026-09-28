@@ -22,3 +22,5 @@
 - `knowledge-base/`：用户希望持续沉淀时可保存本地运营记录；运行记录默认不提交 Git。
 
 改编自 [Xiangyu-CAS/xiaohongshu-ops-skill](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill)。本地改造以 Codex 工具能力为准，原仓库的 OpenClaw 安装说明不适用。
+
+登录状态分端核验、参考资料到草稿的流程设计参考了 [cv-cat/XHS_ALL_IN_ONE](https://github.com/cv-cat/XHS_ALL_IN_ONE) 的产品结构；未复制其代码或素材。该项目 README 标明仅供学习交流。
